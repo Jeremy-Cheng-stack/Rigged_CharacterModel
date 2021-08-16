@@ -11,3 +11,9 @@ You can see the different controllers on the body here.
 You can see the eye controller here.
 
 Currently for demonstration purposes is on pose mode.
+
+![Bone-structure](https://user-images.githubusercontent.com/81793294/129601025-4f21d26e-0445-425c-9683-a232ab9bd7a8.png)
+
+You can see the bone structure of the model here.
+
+The bone structure can be seen in edit mode.
