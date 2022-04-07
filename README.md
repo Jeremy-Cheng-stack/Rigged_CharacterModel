@@ -17,3 +17,5 @@ Currently for demonstration purposes is on pose mode.
 You can see the bone structure of the model here.
 
 The bone structure can be seen in edit mode.
+
+The software I am using is blender.
